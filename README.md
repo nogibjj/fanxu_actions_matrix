@@ -49,6 +49,7 @@ Required Files
 - test_lib.py
     - tests lib.py file
 - worflows
+    - includes actions matrix to run python 3.9, 3.10, and 3.12 in all yml files
     - install.yml
         - installs required python packages and dependencies
     - lint.yml
